@@ -1,0 +1,21 @@
+{
+  "name": "davet-istatistik-botu",
+  "version": "1.0.0",
+  "description": "Discord sunucunuzdaki davet istatistiklerini takip eden bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "davet",
+    "istatistik"
+  ],
+  "author": "Ayran Code Share",
+  "license": "CC BY-NC-ND 4.0",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
